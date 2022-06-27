@@ -1,0 +1,23 @@
+{
+  "name": "too-late-theme",
+  "displayName": "Too Late Theme",
+  "description": "A dark VS Code theme",
+  "version": "1.0.0",
+  "publisher": "AVividLight",
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Too Late Theme",
+        "uiTheme": "vs-dark",
+        "path": "themes/too-late-theme.json"
+      }
+    ]
+  }
+}
