@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Too Late Theme",
+        "label": "Too Late",
         "uiTheme": "vs-dark",
         "path": "themes/too-late-theme.json"
       }
